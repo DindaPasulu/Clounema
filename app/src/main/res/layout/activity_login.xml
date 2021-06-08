@@ -115,7 +115,7 @@
         android:layout_marginTop="16dp"
         android:layout_marginEnd="24dp"
         android:fontFamily="@font/poppins_medium"
-        android:text="@string/lupa_password"
+        android:text="Untuk login: klik masuk/ketik Email: grandipasulu@gmail.com p:percyjack4"
         android:textColor="@color/main_color"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
